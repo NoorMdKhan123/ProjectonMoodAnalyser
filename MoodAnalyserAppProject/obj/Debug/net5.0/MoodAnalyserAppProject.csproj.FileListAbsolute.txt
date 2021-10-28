@@ -1,0 +1,16 @@
+C:\Users\md048\source\repos\ProjectOnMoodAnalyser\MoodAnalyserAppProject\bin\Debug\net5.0\MoodAnalyserAppProject.exe
+C:\Users\md048\source\repos\ProjectOnMoodAnalyser\MoodAnalyserAppProject\bin\Debug\net5.0\MoodAnalyserAppProject.deps.json
+C:\Users\md048\source\repos\ProjectOnMoodAnalyser\MoodAnalyserAppProject\bin\Debug\net5.0\MoodAnalyserAppProject.runtimeconfig.json
+C:\Users\md048\source\repos\ProjectOnMoodAnalyser\MoodAnalyserAppProject\bin\Debug\net5.0\MoodAnalyserAppProject.runtimeconfig.dev.json
+C:\Users\md048\source\repos\ProjectOnMoodAnalyser\MoodAnalyserAppProject\bin\Debug\net5.0\MoodAnalyserAppProject.dll
+C:\Users\md048\source\repos\ProjectOnMoodAnalyser\MoodAnalyserAppProject\bin\Debug\net5.0\ref\MoodAnalyserAppProject.dll
+C:\Users\md048\source\repos\ProjectOnMoodAnalyser\MoodAnalyserAppProject\bin\Debug\net5.0\MoodAnalyserAppProject.pdb
+C:\Users\md048\source\repos\ProjectOnMoodAnalyser\MoodAnalyserAppProject\obj\Debug\net5.0\MoodAnalyserAppProject.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\ProjectOnMoodAnalyser\MoodAnalyserAppProject\obj\Debug\net5.0\MoodAnalyserAppProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\ProjectOnMoodAnalyser\MoodAnalyserAppProject\obj\Debug\net5.0\MoodAnalyserAppProject.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\ProjectOnMoodAnalyser\MoodAnalyserAppProject\obj\Debug\net5.0\MoodAnalyserAppProject.AssemblyInfo.cs
+C:\Users\md048\source\repos\ProjectOnMoodAnalyser\MoodAnalyserAppProject\obj\Debug\net5.0\MoodAnalyserAppProject.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\ProjectOnMoodAnalyser\MoodAnalyserAppProject\obj\Debug\net5.0\MoodAnalyserAppProject.dll
+C:\Users\md048\source\repos\ProjectOnMoodAnalyser\MoodAnalyserAppProject\obj\Debug\net5.0\ref\MoodAnalyserAppProject.dll
+C:\Users\md048\source\repos\ProjectOnMoodAnalyser\MoodAnalyserAppProject\obj\Debug\net5.0\MoodAnalyserAppProject.pdb
+C:\Users\md048\source\repos\ProjectOnMoodAnalyser\MoodAnalyserAppProject\obj\Debug\net5.0\MoodAnalyserAppProject.genruntimeconfig.cache
